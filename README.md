@@ -23,3 +23,4 @@ CakeCal is designed to simplify the process of **calculating cake costs and invo
 
 1. Clone the repository:  
    ```bash
+    git clone https://github.com/abdelkaderbaia/cakecal.git
