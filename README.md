@@ -1,16 +1,25 @@
-# cackecal
+# 🍰 CakeCal  
 
-A new Flutter project.
+**CakeCal** is a practical app that works as a **smart calculator for cake invoices**. 🎂  
+It allows you to enter product prices and quantities, then automatically calculates the total cost of the cake, making billing accurate and effortless.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 📝 Easy input of product prices and quantities  
+- 🔢 Automatic calculation of cake costs based on entered quantities  
+- 📊 Clear and organized display of the final invoice  
+- ⚡️ Simple and fast to use  
+- 🎨 Elegant design for a smooth user experience  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Purpose  
+CakeCal is designed to simplify the process of **calculating cake costs and invoices**, whether for individuals or pastry shops, providing a quick and reliable way to know the exact total.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started  
+
+1. Clone the repository:  
+   ```bash
